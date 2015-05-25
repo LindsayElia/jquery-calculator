@@ -72,3 +72,11 @@
 .operator {
     font-size: 1.3em;
 }
+
+p {
+    font-family: 'Orbitron', sans-serif;
+	line-height: 1.5em;
+    width: 335px;
+    margin-left: auto;
+    margin-right: auto;
+}
